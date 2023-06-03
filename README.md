@@ -7,6 +7,7 @@ I'm a software engineer mainly using Rust and Golang, but I've also done some co
 Most of the work I've done involves AWS, API and back-end development. I've worked in areas such as algorithmic trading, database design and monitoring, logging and benchmarking tools too.
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=rust,go,py,cpp,java,aws)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=selenium,sqlite,postgres,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,py,cpp,java,matlab)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,sqlite,postgres,redis,aws)](https://skillicons.dev)
 
