@@ -11,5 +11,5 @@ Most of the work I've done involves AWS, API and back-end development. I've work
 
 [![My Skills](https://skillicons.dev/icons?i=django,sqlite,postgres,redis,aws,selenium)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker, kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
