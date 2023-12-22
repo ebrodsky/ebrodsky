@@ -9,7 +9,7 @@ Most of the work I've done involves AWS, API and back-end development. I've work
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=rust,go,py,cpp,java,matlab)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,sqlite,postgres,redis,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,mongo,sqlite,postgres,redis,selenium)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
